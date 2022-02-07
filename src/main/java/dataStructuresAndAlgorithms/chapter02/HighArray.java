@@ -1,4 +1,4 @@
-package main.java.chapter02;
+package main.java.dataStructuresAndAlgorithms.chapter02;
 
 class HighArray {
     private long[] numbers;

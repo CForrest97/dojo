@@ -1,4 +1,4 @@
-package main.java.chapter02;
+package main.java.dataStructuresAndAlgorithms.chapter02;
 
 public class OrdArray {
     private long[] numbers;
